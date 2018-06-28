@@ -1,0 +1,34 @@
+{
+  "en":[
+	{
+		"zoneCode": "HYD",
+		"zoneName": "Hyderabad",
+		"countryCode": "IN"
+	},
+	{
+		"zoneCode": "VZ",
+		"zoneName": "Vizag",
+		"countryCode": "IN"
+	},
+	{
+		"zoneCode": "VJW",
+		"zoneName": "Vijayawada",
+		"countryCode": "IN"
+	},
+	{
+		"zoneCode": "KNR",
+		"zoneName": "Karimnagar",
+		"countryCode": "IN"
+	},
+	{
+		"zoneCode": "MNCL",
+		"zoneName": "Mancherial",
+		"countryCode": "IN"
+	},
+	{
+		"zoneCode": "KZ",
+		"zoneName": "Kazipet",
+		"countryCode": "IN"
+	}
+] 
+}
